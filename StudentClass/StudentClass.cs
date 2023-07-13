@@ -1,4 +1,5 @@
-﻿namespace StudentClass
+﻿namespace Lab5
+
 {
     internal class StudentClass
     {
